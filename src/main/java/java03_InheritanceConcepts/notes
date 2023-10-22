@@ -9,3 +9,13 @@
 // We can call as Runtime polymorphism or dynamic polymorphism.
 
 // A parent class can have multiple classes but child cannot have multiple parent class
+
+// Final method cannot be overridden. 
+// If a class declare as a final that cannot be become a parent class. 
+
+// static methods cannot be overridden in inheritance.
+
+// private methods cannot can be overridden.
+
+
+
