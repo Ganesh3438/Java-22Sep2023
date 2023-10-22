@@ -1,6 +1,6 @@
 package java02_encapsulation_getter_setter;
 
-public class Employee {
+public class TC01_Employee {
 	
 	private String name;
 	private int age;

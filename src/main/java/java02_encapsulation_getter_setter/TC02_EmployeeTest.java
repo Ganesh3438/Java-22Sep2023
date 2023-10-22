@@ -1,10 +1,10 @@
 package java02_encapsulation_getter_setter;
 
-public class EmployeeTest {
+public class TC02_EmployeeTest {
 
 	public static void main(String[] args) {
 		
-		Employee e1 = new Employee();
+		TC01_Employee e1 = new TC01_Employee();
 		e1.setName("Bharagav");
 		e1.setAge(26);
 		e1.setSalary(220000000);
