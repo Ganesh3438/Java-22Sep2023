@@ -1,0 +1,11 @@
+// Inheritance: means inherit something from parent class
+
+1. Multiple inheritance is not possible in java 
+2. Multiple inheritance is possible via interface
+
+// Method Overriding: means when you have a method in parent class and the same 
+// method in child class with the same name with the same number of parameters
+// and with the same sequence of parameters.
+// We can call as Runtime polymorphism or dynamic polymorphism.
+
+// A parent class can have multiple classes but child cannot have multiple parent class

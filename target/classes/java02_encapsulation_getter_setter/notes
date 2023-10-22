@@ -1,3 +1,7 @@
-// Encapulsation: 
+// Encapulsation: means binding the data together(private and public members)giving the 
+access via public layer that is called encapsulation
 
 1. Some private properties accessing using setter and getter
+2. Encapsulation is nothing but updating a values
+3. If you want to set a value you can do it through constructor as well 
+
