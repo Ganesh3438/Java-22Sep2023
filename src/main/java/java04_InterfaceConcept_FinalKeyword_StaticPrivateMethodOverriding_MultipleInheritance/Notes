@@ -1,0 +1,7 @@
+// Interface: 
+1. We cannot create object for interface
+2. Only method declaration/method prototype/ no business logic
+3. Only abstract methods
+4. no method body 
+5. top casting means child class object can be referred by parent interface ref variable.
+
