@@ -1,0 +1,9 @@
+// What is abstract class ?
+// We cannot create the object of abstract class
+
+// Can we inherit abstract class?
+// Yes. Only final classes cannot be inherited rest everything cannot be inherited.
+
+// We can create constructor for abstract class
+// and this constructor will be called when we create object of child class.
+
