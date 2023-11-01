@@ -1,5 +1,9 @@
 // Where we will use this keyword?
-// 1. In the constructor, to initialize the class variable wih local variable
+// Use cases of this keyword:
+// 1. In the constructor, to initialize the class variable with local variable
 // 2. getter, setter - encapsulation
 // 3. builder pattern
-// 4. constructor.. calling means calling constructor under consructor..
+// 4. constructor.. calling means calling constructor under constructor..
+      // this()
+      // It should be the first statement in the const..
+      

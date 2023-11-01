@@ -23,7 +23,7 @@ public class Employee {
 //1. Constructor name is as same as the class name
 //2. Cannot have return value/void.
 //3. constructor will be called when you create the object
-//4. What is constructor? To restrict the unnecssary object creations. 
+//4. What is constructor? To restrict the unnecessary object creations. 
 
 		//Employee obj = new Employee();
 	    
