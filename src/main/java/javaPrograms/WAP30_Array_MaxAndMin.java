@@ -11,11 +11,18 @@ public class WAP30_Array_MaxAndMin {
 		
 		for(int i=0; i<arr.length; i++) {
 			
-			if(max<arr[i]) {
-				max = arr[i];
-			} 
+//			if(max<arr[i]) {
+//				max = arr[i];
+//			} 
+//			
+//			if(min>arr[i]) {
+//				min = arr[i];
+//			}
 			
-			if(min>arr[i]) {
+			if(arr[i]>max) {
+				max = arr[i];
+			}
+			if(arr[i]<min) {
 				min = arr[i];
 			}
 		}
