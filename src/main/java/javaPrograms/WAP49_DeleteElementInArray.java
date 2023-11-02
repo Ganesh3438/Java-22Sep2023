@@ -1,8 +1,5 @@
 package javaPrograms;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class WAP49_DeleteElementInArray {
 
 
