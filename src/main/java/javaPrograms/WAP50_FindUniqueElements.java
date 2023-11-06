@@ -17,6 +17,8 @@ public class WAP50_FindUniqueElements {
 				 }
 			 }
 			 
+			 
+			 
 			 if(frq==1) {
 					System.out.print(arr[i] + " "); 
 				 }
